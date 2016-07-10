@@ -3,7 +3,6 @@
 
 D = dict()	
 
-# FUNCTIONS
 def PentagonalsUpTo(max):
 	list1 = []
 	
